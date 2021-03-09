@@ -1,0 +1,59 @@
+
+/*/////////// Header ////////////////*/
+
+header
+{
+    margin-top: 0;
+    height: 80px;
+    background: #C40000;
+    width: 100%;
+    z-index: 1;
+    margin-left: 0;
+    
+}
+
+.fa-ellipsis-v
+{
+    position: relative;
+    top: 0px;
+    float: right;
+    margin-right: -90px;
+    margin-top: 35px;
+    color: white;
+    
+}
+
+/*///////// Nav //////////////*/
+
+.logo 
+{
+    float: left;
+    color: white;
+    line-height: 50px;
+    margin-left: 10px;
+    margin-top: 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    opacity: 80%;
+    
+}
+
+.udd
+{
+    float: left;
+    color: white;
+    line-height: 30px;
+    margin-left: -45px;
+    margin-top: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+
+.menu
+{
+    float: right;
+    color: white;
+    line-height: 5px;
+    margin-right: 40px;
+    margin-top: 40px;
+}
+

@@ -1,0 +1,119 @@
+
+.infobox
+{
+    flex-direction: column;
+    margin-top: 0px;
+    display: flex;
+    
+}
+
+.info-heading
+{
+    margin-top: 15px;
+    margin-left: 15px;
+    text-align: left;
+    
+}
+
+.textinfo
+{
+    text-align: left;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+.img
+{
+    width: 90%;
+    margin-top: 10px;
+    align-self: center;
+}
+
+.textinfo2
+{
+    text-align: left;
+    margin-left: 10px;
+    margin-top: 20px;
+    line-height: 20px;
+}
+
+.textinfo3
+{
+    text-align: left;
+    margin-left: 10px;
+    margin-top: 30px;
+    line-height: 20px;
+    
+}
+
+.vokalia
+{
+    margin-top: 20px;
+    margin-left: 15px;
+    text-align: left;
+    
+}
+
+.info-heading-sd
+{
+    margin-top: 15px;
+    text-align: center;
+}
+
+.info4
+{
+    margin-top: 10px;
+    font-size: 18px;
+    text-align: left;
+    margin-left: 20px;
+}
+
+.info5
+{
+    margin-top: 20px;
+    font-size: 18px;
+    text-align: left;
+    margin-left: 20px;
+}
+
+.faktabox
+{
+    background-color: #8b7b7b;
+    height: 480px;
+    margin-left: 20px;
+    margin-top: 30px;
+    width: 90%;
+}
+
+.roskildefakta
+{
+    color: white;
+    margin-top: 20px;
+    font-size: 30px;
+    text-align: left;
+    margin-left: 15px;
+}
+
+.faktatekst
+{
+    color: white;
+    margin-top: 15px;
+    text-align: left;
+    margin-left: 15px;
+}
+
+.faktatekst2
+{
+    color: white;
+    text-align: left;
+    margin-left: 15px;
+    margin-top: 20px;
+}
+
+.faktatekstmini
+{
+    color: white;
+    text-align: left;
+    margin-left: 15px;
+
+}

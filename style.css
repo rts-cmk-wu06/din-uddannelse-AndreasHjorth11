@@ -1,0 +1,28 @@
+
+*{
+    margin: 0;
+    padding: 0;
+  
+}
+
+body
+{
+    text-align: center;
+    display: flex;
+}
+
+
+html
+{
+    background: white(95, 90, 86);
+    
+}
+
+
+main
+{
+    display: flex;
+    max-height: 1500px;
+    background-color: white;
+        
+}
